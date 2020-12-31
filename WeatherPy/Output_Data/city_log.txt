@@ -1,0 +1,329 @@
+City ID: 5880054
+City Name: barrow
+
+City ID: 3369157
+City Name: cape town
+
+taolanaro not found
+
+City ID: 1586443
+City Name: ca mau
+
+City ID: 1526041
+City Name: atasu
+
+kazalinsk not found
+
+City ID: 3372707
+City Name: ribeira grande
+
+City ID: 3445026
+City Name: vila velha
+
+City ID: 7671223
+City Name: kloulklubed
+
+City ID: 3377301
+City Name: mabaruma
+
+City ID: 2015306
+City Name: tiksi
+
+City ID: 2063039
+City Name: port keats
+
+City ID: 3874787
+City Name: punta arenas
+
+City ID: 2501152
+City Name: constantine
+
+City ID: 3883457
+City Name: lebu
+
+City ID: 964432
+City Name: port alfred
+
+City ID: 2110227
+City Name: butaritari
+
+City ID: 4020109
+City Name: atuona
+
+City ID: 934322
+City Name: mahebourg
+
+City ID: 2206939
+City Name: bluff
+
+City ID: 2026160
+City Name: borogontsy
+
+City ID: 1805733
+City Name: jinchang
+
+City ID: 2126123
+City Name: chokurdakh
+
+City ID: 3652764
+City Name: puerto ayora
+
+City ID: 2013279
+City Name: vostok
+
+City ID: 777019
+City Name: vardo
+
+City ID: 293842
+City Name: gat
+
+City ID: 113636
+City Name: tafresh
+
+City ID: 1282256
+City Name: hithadhoo
+
+City ID: 1267776
+City Name: kargil
+
+City ID: 780687
+City Name: berlevag
+
+City ID: 6201424
+City Name: mataura
+
+City ID: 3347019
+City Name: namibe
+
+City ID: 2112309
+City Name: katsuura
+
+City ID: 2233704
+City Name: bonaberi
+
+City ID: 4986020
+City Name: big rapids
+
+City ID: 2155415
+City Name: new norfolk
+
+dekoa not found
+
+City ID: 2685750
+City Name: ostersund
+
+City ID: 546105
+City Name: nikolskoye
+
+City ID: 2126199
+City Name: cherskiy
+
+City ID: 2017155
+City Name: saskylakh
+
+City ID: 5887798
+City Name: assiniboia
+
+City ID: 3355672
+City Name: luderitz
+
+City ID: 6185377
+City Name: yellowknife
+
+City ID: 2122090
+City Name: pevek
+
+umzimvubu not found
+
+City ID: 2449066
+City Name: tombouctou
+
+City ID: 3366880
+City Name: hermanus
+
+City ID: 4676740
+City Name: brownsville
+
+City ID: 1819729
+City Name: victoria
+
+City ID: 1490256
+City Name: talnakh
+
+City ID: 3833367
+City Name: ushuaia
+
+City ID: 6165406
+City Name: thompson
+
+illoqqortoormiut not found
+
+mys shmidta not found
+
+City ID: 2630299
+City Name: hofn
+
+City ID: 468483
+City Name: yazykovo
+
+City ID: 563990
+City Name: dvinskoy
+
+City ID: 3832899
+City Name: viedma
+
+City ID: 2071860
+City Name: esperance
+
+City ID: 3831208
+City Name: qaanaaq
+
+City ID: 3374210
+City Name: sao filipe
+
+City ID: 3985710
+City Name: cabo san lucas
+
+City ID: 1853237
+City Name: saiki
+
+City ID: 1106677
+City Name: bambous virieux
+
+City ID: 469809
+City Name: yadrin
+
+City ID: 1062663
+City Name: mahajanga
+
+skalistyy not found
+
+City ID: 5106841
+City Name: albany
+
+City ID: 2729907
+City Name: longyearbyen
+
+City ID: 1735106
+City Name: georgetown
+
+City ID: 2146219
+City Name: hervey bay
+
+City ID: 3470137
+City Name: belmonte
+
+City ID: 4030556
+City Name: rikitea
+
+City ID: 964420
+City Name: port elizabeth
+
+City ID: 542184
+City Name: krasnovishersk
+
+City ID: 2022572
+City Name: khatanga
+
+City ID: 1861416
+City Name: ishigaki
+
+City ID: 935215
+City Name: saint-philippe
+
+kawana waters not found
+
+City ID: 1714733
+City Name: dingle
+
+abiy adi not found
+
+City ID: 4726521
+City Name: san patricio
+
+City ID: 605155
+City Name: kiruna
+
+City ID: 6137462
+City Name: saint-augustin
+
+City ID: 6170031
+City Name: tuktoyaktuk
+
+City ID: 2065594
+City Name: mount isa
+
+City ID: 2327879
+City Name: offa
+
+City ID: 5848280
+City Name: kapaa
+
+City ID: 2074865
+City Name: carnarvon
+
+City ID: 5855927
+City Name: hilo
+
+City ID: 2335614
+City Name: kagoro
+
+City ID: 2123814
+City Name: leningradskiy
+
+City ID: 3671418
+City Name: puerto lopez
+
+City ID: 5122534
+City Name: jamestown
+
+City ID: 4402245
+City Name: ozark
+
+City ID: 5557293
+City Name: sitka
+
+City ID: 1505495
+City Name: irtyshskiy
+
+City ID: 2025630
+City Name: chara
+
+City ID: 3420768
+City Name: qasigiannguit
+
+dolbeau not found
+
+City ID: 1218612
+City Name: murgab
+
+tuggurt not found
+
+City ID: 1803936
+City Name: wuwei
+
+City ID: 1831125
+City Name: kampong thum
+
+City ID: 6355222
+City Name: yulara
+
+City ID: 1731298
+City Name: aloleng
+
+City ID: 4068590
+City Name: huntsville
+
+City ID: 3430863
+City Name: mar del plata
+
+City ID: 4333811
+City Name: morgan city
+
+City ID: 361058
+City Name: alexandria
+
+City ID: 2064735
+City Name: nhulunbuy
+
+Number of cities found: 102
