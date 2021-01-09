@@ -1,1840 +1,1790 @@
-City ID: 1015776
-City Name: bredasdorp
-
-City ID: 1855476
-City Name: nichinan
-
-City ID: 2126123
-City Name: chokurdakh
-
-City ID: 2022572
-City Name: khatanga
-
-City ID: 3874787
-City Name: punta arenas
-
-City ID: 5106841
-City Name: albany
-
-rab not found
-
-City ID: 2075265
-City Name: busselton
-
-City ID: 5855927
-City Name: hilo
-
-City ID: 5234141
-City Name: brattleboro
-
-City ID: 2163355
-City Name: hobart
-
-City ID: 3831208
-City Name: qaanaaq
-
-City ID: 6170031
-City Name: tuktoyaktuk
-
-City ID: 5880054
-City Name: barrow
-
-City ID: 2065594
-City Name: mount isa
-
-City ID: 2158767
-City Name: mareeba
-
-City ID: 2175403
-City Name: blackwater
-
-City ID: 5882953
-City Name: aklavik
-
-City ID: 5848280
-City Name: kapaa
-
-City ID: 6201424
-City Name: mataura
-
-City ID: 3366880
-City Name: hermanus
-
-City ID: 4845585
-City Name: westport
-
-City ID: 5866583
-City Name: kodiak
-
-City ID: 5924351
-City Name: clyde river
-
-City ID: 2972468
-City Name: tonneins
-
-City ID: 2030065
-City Name: mandalgovi
-
-City ID: 2070998
-City Name: geraldton
-
-City ID: 1337606
-City Name: eydhafushi
-
-City ID: 4030556
-City Name: rikitea
-
-City ID: 2274895
-City Name: monrovia
-
-City ID: 1513491
-City Name: komsomolskiy
-
-City ID: 2175819
-City Name: biloela
-
-City ID: 2751792
-City Name: leeuwarden
-
-City ID: 3832899
-City Name: viedma
-
-City ID: 3137469
-City Name: sorland
-
-City ID: 1649150
-City Name: bengkulu
-
-City ID: 3939168
-City Name: huarmey
-
-City ID: 4031574
-City Name: provideniya
-
-City ID: 1537939
-City Name: stepnogorsk
-
-City ID: 3174050
-City Name: mantua
-
-City ID: 3466704
-City Name: castro
-
-City ID: 672301
-City Name: nereju
-
-City ID: 590447
-City Name: karla
-
-City ID: 4277011
-City Name: parsons
-
-City ID: 1282256
-City Name: hithadhoo
-
-City ID: 467120
-City Name: yershov
-
-City ID: 286621
-City Name: salalah
-
-City ID: 4726521
-City Name: san patricio
-
-City ID: 6620339
-City Name: karratha
-
-City ID: 1735106
-City Name: georgetown
-
-City ID: 2264557
-City Name: ponta do sol
-
-belushya guba not found
-
-City ID: 3359638
-City Name: walvis bay
-
-City ID: 136702
-City Name: dehloran
-
-City ID: 4020109
-City Name: atuona
-
-taolanaro not found
-
-City ID: 746628
-City Name: golkoy
+City ID: 3424607
+City Name: tasiilaq
 
 City ID: 3833367
 City Name: ushuaia
 
-City ID: 1714733
-City Name: dingle
+City ID: 5106841
+City Name: albany
 
-City ID: 4705086
-City Name: lamar
-
-City ID: 5746545
-City Name: portland
-
-City ID: 3466980
-City Name: caravelas
-
-City ID: 1507390
-City Name: dikson
-
-City ID: 2094746
-City Name: kandrian
-
-City ID: 2272491
-City Name: zwedru
-
-City ID: 2126710
-City Name: beringovskiy
-
-City ID: 2126199
-City Name: cherskiy
-
-City ID: 4036284
-City Name: alofi
-
-City ID: 2206939
-City Name: bluff
-
-City ID: 2377457
-City Name: nouadhibou
-
-City ID: 6165406
-City Name: thompson
-
-City ID: 2396518
-City Name: port-gentil
-
-City ID: 2028164
-City Name: deputatskiy
-
-City ID: 5356012
-City Name: healdsburg
-
-saleaula not found
-
-City ID: 2164206
-City Name: gunnedah
-
-City ID: 364933
-City Name: umm kaddadah
-
-City ID: 2015306
-City Name: tiksi
-
-City ID: 3397967
-City Name: itaituba
-
-City ID: 2150163
-City Name: sawtell
-
-City ID: 3652764
-City Name: puerto ayora
-
-City ID: 659169
-City Name: hamina
+City ID: 2147714
+City Name: sydney
 
 amderma not found
 
-City ID: 1687894
-City Name: santa rosa
-
-City ID: 1633419
-City Name: padang
-
-City ID: 3450083
-City Name: santa maria
-
-City ID: 2729907
-City Name: longyearbyen
-
-City ID: 6355222
-City Name: yulara
-
-City ID: 3421765
-City Name: nanortalik
-
-illoqqortoormiut not found
-
-City ID: 2110227
-City Name: butaritari
-
-City ID: 934479
-City Name: grand gaube
-
-City ID: 3883457
-City Name: lebu
-
-City ID: 2399001
-City Name: mayumba
-
-City ID: 2092164
-City Name: lorengau
-
-City ID: 2643044
-City Name: margate
-
-City ID: 3372707
-City Name: ribeira grande
-
-City ID: 1651810
-City Name: airai
-
-City ID: 2071860
-City Name: esperance
-
-City ID: 964432
-City Name: port alfred
-
-City ID: 1215502
-City Name: banda aceh
-
-City ID: 2639996
-City Name: portsmouth
-
-City ID: 546105
-City Name: nikolskoye
-
-umzimvubu not found
-
-City ID: 2019951
-City Name: mirnyy
-
-nizhneyansk not found
-
-City ID: 5969025
-City Name: haines junction
-
-City ID: 4595864
-City Name: simpsonville
-
-City ID: 1502073
-City Name: krasnoselkup
-
-City ID: 3418910
-City Name: upernavik
-
-City ID: 2112309
-City Name: katsuura
-
-City ID: 1503037
-City Name: kodinsk
-
-City ID: 2178753
-City Name: kirakira
-
-City ID: 2123814
-City Name: leningradskiy
-
-City ID: 1283318
-City Name: janakpur
-
-City ID: 1168700
-City Name: ormara
-
-City ID: 3355672
-City Name: luderitz
-
-City ID: 1497917
-City Name: nefteyugansk
-
-City ID: 2181625
-City Name: te anau
-
-City ID: 2361177
-City Name: djibo
-
-City ID: 5282297
-City Name: bethel
-
-barroualie not found
-
-City ID: 6185377
-City Name: yellowknife
-
-City ID: 2012593
-City Name: zeya
-
-City ID: 2112802
-City Name: hasaki
-
-City ID: 5122534
-City Name: jamestown
-
-City ID: 2027002
-City Name: bayangol
-
-City ID: 3423146
-City Name: ilulissat
-
-City ID: 2618795
-City Name: klaksvik
+City ID: 463838
+City Name: zelenoborskiy
 
 City ID: 3369157
 City Name: cape town
 
-City ID: 1626542
-City Name: sorong
+City ID: 5062292
+City Name: valley city
 
-City ID: 3577154
-City Name: oranjestad
+City ID: 3419842
+City Name: sisimiut
 
-City ID: 49747
-City Name: xuddur
+City ID: 1254709
+City Name: tezu
 
-City ID: 933995
-City Name: souillac
+City ID: 2729907
+City Name: longyearbyen
 
-City ID: 551145
-City Name: kem
+City ID: 3414079
+City Name: olafsvik
 
-City ID: 2017155
-City Name: saskylakh
+City ID: 325304
+City Name: afsin
 
-City ID: 2094342
-City Name: kavieng
+City ID: 1640972
+City Name: katobu
 
-City ID: 2167426
-City Name: emerald
-
-City ID: 2063042
-City Name: port hedland
-
-City ID: 1060007
-City Name: marolambo
-
-City ID: 3374083
-City Name: bathsheba
-
-City ID: 2034834
-City Name: shuangcheng
-
-City ID: 3372760
-City Name: praia da vitoria
-
-City ID: 164947
-City Name: salamiyah
-
-City ID: 152877
-City Name: mtambile
-
-City ID: 110690
-City Name: faya
-
-City ID: 3163146
-City Name: andenes
-
-City ID: 935214
-City Name: saint-pierre
-
-City ID: 2122090
-City Name: pevek
-
-City ID: 2194098
-City Name: ahipara
-
-City ID: 2136825
-City Name: isangel
-
-City ID: 470762
-City Name: vyartsilya
-
-barentsburg not found
-
-City ID: 5983720
-City Name: iqaluit
-
-City ID: 567902
-City Name: chkalovsk
-
-City ID: 5919850
-City Name: chapais
-
-City ID: 3492908
-City Name: santo domingo
-
-City ID: 10722858
-City Name: svetlogorsk
-
-City ID: 4034551
-City Name: faanui
-
-City ID: 2406067
-City Name: mange
-
-City ID: 986717
-City Name: kruisfontein
-
-City ID: 780717
-City Name: batsfjord
-
-City ID: 3533462
-City Name: acapulco
-
-City ID: 935215
-City Name: saint-philippe
-
-City ID: 7117100
-City Name: vila
-
-City ID: 4032243
-City Name: vaini
-
-City ID: 1254046
-City Name: tura
-
-City ID: 3401148
-City Name: cururupu
-
-City ID: 1283285
-City Name: jumla
-
-City ID: 1282027
-City Name: male
-
-City ID: 2109528
-City Name: buala
-
-City ID: 1785738
-City Name: yuncheng
-
-City ID: 3587902
-City Name: villa nueva
-
-City ID: 1787599
-City Name: xingyi
-
-City ID: 3393536
-City Name: olinda
-
-City ID: 3696183
-City Name: iquitos
-
-City ID: 6111862
-City Name: port hardy
-
-City ID: 2645826
-City Name: kendal
-
-City ID: 2281120
-City Name: tabou
-
-City ID: 3374210
-City Name: sao filipe
-
-City ID: 3902685
-City Name: eucaliptus
-
-City ID: 1674199
-City Name: yilan
-
-City ID: 4593724
-City Name: saint andrews
-
-City ID: 1797535
-City Name: qiongshan
-
-City ID: 5870133
-City Name: nome
-
-City ID: 5354943
-City Name: half moon bay
-
-City ID: 1529660
-City Name: aksu
-
-City ID: 2074865
-City Name: carnarvon
-
-City ID: 2122574
-City Name: ola
-
-marcona not found
-
-City ID: 6096551
-City Name: pangnirtung
-
-City ID: 1213855
-City Name: sibolga
-
-City ID: 6144312
-City Name: sept-iles
-
-mys shmidta not found
-
-City ID: 3135137
-City Name: sveio
-
-City ID: 4636045
-City Name: lebanon
-
-City ID: 210939
-City Name: luebo
-
-City ID: 4323873
-City Name: estelle
-
-City ID: 1718593
-City Name: capulaan
-
-City ID: 3347019
-City Name: namibe
-
-City ID: 1791464
-City Name: wenling
-
-City ID: 3408368
-City Name: acarau
-
-City ID: 4967563
-City Name: houlton
-
-City ID: 3471451
-City Name: arraial do cabo
-
-vaitupu not found
-
-City ID: 5386035
-City Name: rancho palos verdes
-
-City ID: 964420
-City Name: port elizabeth
-
-City ID: 2094027
-City Name: kieta
-
-rawannawi not found
-
-City ID: 6058024
-City Name: lloydminster
-
-City ID: 2641108
-City Name: oban
+City ID: 3652764
+City Name: puerto ayora
 
 City ID: 2155415
 City Name: new norfolk
 
-City ID: 2093685
-City Name: kokopo
+City ID: 100926
+City Name: umm lajj
 
-City ID: 2212775
-City Name: sabha
+City ID: 3831208
+City Name: qaanaaq
 
-City ID: 2068079
-City Name: kwinana
+City ID: 2141305
+City Name: fayaoue
 
-City ID: 1492948
-City Name: saryg-sep
-
-City ID: 3620266
-City Name: corn island
-
-City ID: 1052944
-City Name: angoche
-
-City ID: 1501000
-City Name: kyshtovka
-
-City ID: 2122262
-City Name: palana
+City ID: 964432
+City Name: port alfred
 
 sentyabrskiy not found
 
-City ID: 3382160
-City Name: cayenne
-
-City ID: 6089245
-City Name: norman wells
-
-City ID: 2065176
-City Name: murray bridge
-
-City ID: 2656046
-City Name: bedford
-
-louisbourg not found
-
-City ID: 1510689
-City Name: baykit
-
-City ID: 1006984
-City Name: east london
-
-City ID: 1529651
-City Name: altay
-
-City ID: 1444363
-City Name: nuristan
-
-City ID: 3466165
-City Name: cidreira
-
-City ID: 455786
-City Name: seda
-
-City ID: 2012510
-City Name: zhireken
-
-City ID: 3457736
-City Name: mariana
-
-City ID: 4035715
-City Name: avarua
-
-City ID: 5101405
-City Name: morris
-
-City ID: 2191562
-City Name: dunedin
-
-City ID: 2019323
-City Name: nerchinskiy zavod
-
-City ID: 1631637
-City Name: pemangkat
-
-City ID: 484314
-City Name: tarnogskiy gorodok
-
-viligili not found
-
-City ID: 1293625
-City Name: dawei
-
-City ID: 3945985
-City Name: camana
-
-City ID: 3105522
-City Name: bereda
-
-City ID: 1272140
-City Name: dwarka
-
-City ID: 1490796
-City Name: strezhevoy
-
-phan rang not found
-
-City ID: 58933
-City Name: garowe
-
-City ID: 2632287
-City Name: dalvik
-
-City ID: 3448903
-City Name: sao joao da barra
-
-City ID: 1855342
-City Name: nishihara
-
-City ID: 468983
-City Name: yarensk
-
-City ID: 2738381
-City Name: lata
-
-City ID: 3354077
-City Name: opuwo
-
-City ID: 3628473
-City Name: san cristobal
-
-palabuhanratu not found
-
-City ID: 3347719
-City Name: luena
-
-City ID: 3424607
-City Name: tasiilaq
-
-City ID: 3464008
-City Name: esmeraldas
-
-City ID: 779554
-City Name: honningsvag
-
-City ID: 3598787
-City Name: champerico
-
-City ID: 497024
-City Name: senno
-
-City ID: 1106677
-City Name: bambous virieux
-
-City ID: 5742974
-City Name: north bend
-
-City ID: 2112444
-City Name: kamaishi
-
-City ID: 70979
-City Name: sayyan
-
-City ID: 1814093
-City Name: dali
-
-City ID: 3385670
-City Name: urucara
-
-City ID: 3576994
-City Name: cockburn town
-
-City ID: 3386931
-City Name: tamandare
-
-City ID: 2068110
-City Name: kununurra
-
-City ID: 2654970
-City Name: brae
-
-City ID: 2126018
-City Name: de-kastri
-
-City ID: 2742765
-City Name: areosa
-
-attawapiskat not found
-
-City ID: 5563839
-City Name: fortuna
-
-City ID: 3430863
-City Name: mar del plata
-
-City ID: 6167817
-City Name: torbay
-
-City ID: 2449893
-City Name: tessalit
-
-City ID: 3668605
-City Name: santa marta
-
-City ID: 1720223
-City Name: callaguip
-
-City ID: 2017215
-City Name: sangar
-
-City ID: 2026544
-City Name: bokhan
-
-City ID: 1636426
-City Name: manggar
-
-City ID: 1795632
-City Name: shenjiamen
-
-City ID: 2063036
-City Name: port lincoln
-
-City ID: 2562247
-City Name: marsaxlokk
-
-City ID: 3984997
-City Name: san quintin
-
-City ID: 1701054
-City Name: marawi
-
-City ID: 2520610
-City Name: caceres
-
-City ID: 1650232
-City Name: banjar
-
-City ID: 7671223
-City Name: kloulklubed
-
-City ID: 2173911
-City Name: broken hill
-
-City ID: 5847411
-City Name: kahului
-
-City ID: 3416888
-City Name: grindavik
-
-City ID: 2206874
-City Name: waipawa
-
-City ID: 72181
-City Name: marzuq
-
-City ID: 101312
-City Name: turayf
-
-bargal not found
-
-City ID: 4946620
-City Name: palmer
-
-City ID: 2176639
-City Name: batemans bay
-
-City ID: 6111696
-City Name: port-cartier
-
-City ID: 1267390
-City Name: kavaratti
-
-City ID: 3443061
-City Name: chuy
-
-City ID: 1641977
-City Name: kalianget
-
-thano bula khan not found
-
-City ID: 1715015
-City Name: dicabisagan
-
-City ID: 4031637
-City Name: lavrentiya
-
-City ID: 1849892
-City Name: tottori
-
-bo not found
-
-City ID: 2077895
-City Name: alice springs
-
-City ID: 3125897
-City Name: castelldefels
-
-City ID: 3839982
-City Name: punta alta
-
-City ID: 2012956
-City Name: yerbogachen
-
-City ID: 2064735
-City Name: nhulunbuy
-
-City ID: 245338
-City Name: am timan
-
-City ID: 5110365
-City Name: broome
-
-City ID: 2381334
-City Name: atar
-
-City ID: 1214026
-City Name: sabang
-
-City ID: 3372964
-City Name: lagoa
-
-City ID: 4273680
-City Name: junction city
-
-City ID: 64814
-City Name: bandarbeyla
-
-City ID: 877631
-City Name: namikupa
-
-City ID: 3893726
-City Name: constitucion
-
-City ID: 1796663
-City Name: bantou
-
-City ID: 1263528
-City Name: marhaura
-
-City ID: 559752
-City Name: gornozavodsk
-
-City ID: 2514216
-City Name: manacor
-
-City ID: 933178
-City Name: pandamatenga
-
-City ID: 1790894
-City Name: wuxue
-
-agva not found
-
-City ID: 2366168
-City Name: kande
-
-City ID: 2137773
-City Name: vao
-
-City ID: 139817
-City Name: bushehr
-
-City ID: 5861897
-City Name: fairbanks
-
-City ID: 3899695
-City Name: ancud
-
-City ID: 525509
-City Name: molokovo
-
-tubruq not found
-
-City ID: 1519422
-City Name: semey
-
-sindand not found
-
-City ID: 503878
-City Name: pustoshka
-
-City ID: 3395458
-City Name: maragogi
-
-City ID: 3403566
-City Name: campo maior
-
-City ID: 4954611
-City Name: watertown
-
-samusu not found
-
-City ID: 1215839
-City Name: urgut
-
-City ID: 1725623
-City Name: belance
-
-City ID: 1529376
-City Name: korla
-
-City ID: 2208248
-City Name: kaitangata
-
-City ID: 115781
-City Name: shahr-e babak
-
-City ID: 2444995
-City Name: filingue
-
-City ID: 55671
-City Name: kismayo
-
-City ID: 1270455
-City Name: hamirpur
-
-City ID: 344420
-City Name: adwa
-
-City ID: 3698359
-City Name: chicama
-
-City ID: 3402648
-City Name: carutapera
-
-vastervik not found
-
-City ID: 933759
-City Name: ghanzi
-
-City ID: 3571913
-City Name: marsh harbour
-
-City ID: 3928128
-City Name: tacna
-
-City ID: 6145425
-City Name: shaunavon
-
-City ID: 2109701
-City Name: auki
-
-City ID: 6255012
-City Name: flinders
-
-City ID: 3355624
-City Name: maltahohe
-
-City ID: 2015217
-City Name: tokur
-
-City ID: 3356832
-City Name: henties bay
-
-City ID: 287832
-City Name: ibra
-
-City ID: 2025261
-City Name: chulman
-
-City ID: 3445026
-City Name: vila velha
-
-City ID: 3372472
-City Name: vila franca do campo
-
-City ID: 2408154
-City Name: kamakwie
-
-City ID: 4513583
-City Name: hamilton
-
-City ID: 3404558
-City Name: cabedelo
-
-City ID: 1495626
-City Name: pangody
-
-City ID: 1279945
-City Name: jiuquan
-
-City ID: 4868410
-City Name: muscatine
-
-City ID: 176758
-City Name: kaputa
-
-City ID: 3868626
-City Name: valparaiso
-
-City ID: 4021858
-City Name: guerrero negro
-
-City ID: 2997670
-City Name: longuenesse
-
-City ID: 2219235
-City Name: awbari
-
-City ID: 1632998
-City Name: pamanukan
-
-City ID: 3893629
-City Name: coquimbo
-
-City ID: 1642858
-City Name: jambi
-
-City ID: 3466933
-City Name: carlos barbosa
-
-grand river south east not found
-
-City ID: 293842
-City Name: gat
-
-City ID: 172515
-City Name: abu samrah
-
-City ID: 3421719
-City Name: narsaq
-
-City ID: 2084442
-City Name: vanimo
-
-City ID: 745697
-City Name: hayrabolu
-
-City ID: 3666640
-City Name: tumaco
-
-City ID: 3175096
-City Name: lasa
-
-City ID: 591475
-City Name: kehtna
-
-City ID: 2122614
-City Name: okha
-
-City ID: 3412093
-City Name: vestmannaeyjar
-
-City ID: 3839307
-City Name: rawson
-
-City ID: 1732945
-City Name: cukai
-
-City ID: 1819729
-City Name: victoria
-
-City ID: 2276492
-City Name: harper
-
-City ID: 2172797
-City Name: cairns
-
-City ID: 3182910
-City Name: arco
-
-City ID: 2171099
-City Name: codrington
-
-City ID: 3521108
-City Name: progreso
-
-City ID: 1153035
-City Name: kathu
-
-City ID: 3665202
-City Name: aripuana
-
-City ID: 2332515
-City Name: lafia
-
-uniao da victoria not found
-
-City ID: 6050066
-City Name: la ronge
-
-City ID: 556268
-City Name: ostrovnoy
-
-City ID: 2171722
-City Name: charters towers
-
-City ID: 2014078
-City Name: urusha
-
-City ID: 769250
-City Name: kielce
-
-City ID: 653272
-City Name: kemijarvi
-
-City ID: 3531368
-City Name: celestun
-
-City ID: 3939761
-City Name: hualmay
-
-City ID: 8079926
-City Name: labuhan
-
-mocambique not found
-
-City ID: 1263942
-City Name: manavalakurichi
-
-City ID: 211647
-City Name: lodja
-
-City ID: 2206894
-City Name: hokitika
-
-City ID: 3393692
-City Name: itarema
-
-City ID: 2511440
-City Name: san bartolome de tirajana
-
-City ID: 1280957
-City Name: jiayuguan
-
-City ID: 2374583
-City Name: bubaque
-
-City ID: 1175712
-City Name: jiwani
-
-City ID: 3457147
-City Name: mineiros
-
-City ID: 118994
-City Name: rafsanjan
-
-City ID: 5959803
-City Name: capreol
-
-City ID: 4163318
-City Name: mango
-
-City ID: 551669
-City Name: kavkazskaya
-
-City ID: 3585968
-City Name: salvador
-
-hendijan not found
-
-City ID: 3171985
-City Name: orbetello
-
-City ID: 3489657
-City Name: lucea
-
-City ID: 149132
-City Name: usevya
-
-City ID: 1791779
-City Name: wanning
-
-City ID: 1276983
-City Name: barghat
-
-City ID: 338345
-City Name: edd
-
-City ID: 3392425
-City Name: pedro velho
-
-City ID: 1215350
-City Name: bireun
-
-City ID: 2318044
-City Name: yola
-
-City ID: 2012530
-City Name: zhigansk
-
-City ID: 260895
-City Name: karpathos
-
-kamenskoye not found
-
-City ID: 5557293
-City Name: sitka
-
-City ID: 1500933
-City Name: labytnangi
-
-City ID: 1861280
-City Name: itoman
-
-City ID: 3694112
-City Name: paita
-
-City ID: 1056899
-City Name: sambava
-
-City ID: 5367788
-City Name: lompoc
-
-City ID: 2630299
-City Name: hofn
-
-City ID: 3429594
-City Name: reconquista
-
-City ID: 587876
-City Name: valga
-
-City ID: 2264923
-City Name: peniche
-
-City ID: 1106643
-City Name: quatre cocos
-
-City ID: 2121025
-City Name: srednekolymsk
-
-City ID: 5134295
-City Name: roma
-
-City ID: 1624041
-City Name: ternate
-
-satitoa not found
-
-City ID: 189741
-City Name: lamu
-
-City ID: 1804979
-City Name: juegang
-
-City ID: 3386213
-City Name: touros
-
-City ID: 1059507
-City Name: marovoay
-
-City ID: 3407407
-City Name: aquiraz
-
-City ID: 1295765
-City Name: akyab
-
-City ID: 667303
-City Name: sfantu gheorghe
-
-karakendzha not found
-
-City ID: 3385935
-City Name: tucurui
-
-City ID: 2523660
-City Name: racale
-
-City ID: 2595346
-City Name: ikare
-
-City ID: 1270118
-City Name: hesla
-
-City ID: 2269142
-City Name: colares
-
-City ID: 5576064
-City Name: craig
-
-City ID: 1252783
-City Name: yarada
-
-City ID: 2361373
-City Name: diapaga
-
-City ID: 2644605
-City Name: lerwick
-
-City ID: 123941
-City Name: minab
-
-City ID: 3441890
-City Name: maldonado
-
-City ID: 3038789
-City Name: abbeville
-
-City ID: 1811720
-City Name: enshi
-
-City ID: 3024035
-City Name: concarneau
-
-City ID: 3388847
-City Name: sao felix do xingu
-
-City ID: 2654545
-City Name: helmsdale
-
-City ID: 2146219
-City Name: hervey bay
-
-City ID: 3386177
-City Name: trairi
-
-City ID: 1715407
-City Name: datagon
-
-City ID: 6929460
-City Name: panzhihua
-
-City ID: 1806408
-City Name: yangjiang
-
-City ID: 2165087
-City Name: gold coast
-
-City ID: 3430708
-City Name: mercedes
-
-City ID: 2120047
-City Name: ust-omchug
-
-City ID: 1619276
-City Name: bang rakam
-
-City ID: 2016307
-City Name: solnechnyy
-
-City ID: 2638853
-City Name: saint austell
-
-City ID: 2134814
-City Name: sola
-
-City ID: 1214488
-City Name: meulaboh
-
-wahran not found
-
-City ID: 2610343
-City Name: vestmanna
-
-City ID: 1486369
-City Name: yarkovo
-
-City ID: 3395981
-City Name: maceio
-
-City ID: 688904
-City Name: voykove
-
-City ID: 902620
-City Name: mwinilunga
-
-City ID: 5546220
-City Name: saint george
-
-City ID: 2514651
-City Name: los llanos de aridane
-
-City ID: 3175528
-City Name: impruneta
-
-City ID: 3646487
-City Name: carora
-
-City ID: 1524889
-City Name: chardara
-
-City ID: 2138555
-City Name: poum
-
-City ID: 5911745
-City Name: burns lake
-
-City ID: 2179103
-City Name: whitianga
-
-City ID: 2152659
-City Name: port macquarie
-
-City ID: 1513990
-City Name: gazli
-
-City ID: 3894426
-City Name: coihaique
-
-we not found
-
-City ID: 1847947
-City Name: shingu
-
-City ID: 2025256
-City Name: chumikan
-
-City ID: 187585
-City Name: marsabit
-
-City ID: 2271968
-City Name: aljezur
-
-City ID: 1489656
-City Name: teya
-
-City ID: 6540819
-City Name: siderno
-
-City ID: 583345
-City Name: aleksandrov gay
-
-andevoranto not found
-
-City ID: 3662761
-City Name: porto walter
-
-City ID: 2629833
-City Name: husavik
-
-City ID: 5970478
-City Name: harbour breton
-
-City ID: 3493032
-City Name: san pedro de macoris
-
-City ID: 4738214
-City Name: tyler
-
-City ID: 2023333
-City Name: kachug
-
-City ID: 583673
-City Name: aksay
-
-City ID: 2318123
-City Name: yenagoa
-
-City ID: 1519691
-City Name: sarkand
-
-City ID: 6171633
-City Name: ucluelet
-
-City ID: 1786538
-City Name: yining
-
-City ID: 1674199
-City Name: toucheng
-
-City ID: 3100127
-City Name: drezdenko
-
-City ID: 2025630
-City Name: chara
-
-City ID: 3671450
-City Name: inirida
-
-City ID: 2015179
-City Name: tommot
-
-City ID: 1568574
-City Name: qui nhon
-
-City ID: 2036933
-City Name: helong
-
-City ID: 2156643
-City Name: mount gambier
-
-City ID: 1738050
-City Name: miri
-
-City ID: 2038342
-City Name: beipiao
-
-meyungs not found
-
-kuche not found
-
-City ID: 3374333
-City Name: praia
-
-City ID: 1314759
-City Name: lashio
-
-chagda not found
-
-City ID: 1855540
-City Name: naze
-
-City ID: 3664980
-City Name: boa vista
-
-City ID: 154915
-City Name: maneromango
-
-City ID: 470905
-City Name: vuktyl
-
-City ID: 1260771
-City Name: palasa
-
-City ID: 3702577
-City Name: portobelo
-
-City ID: 5563397
-City Name: eureka
-
-City ID: 778362
-City Name: oksfjord
-
-City ID: 2037375
-City Name: fujin
-
-City ID: 4470244
-City Name: havelock
-
-City ID: 690629
-City Name: uspenka
-
-City ID: 5859699
-City Name: college
-
-gurskoye not found
-
-City ID: 2022064
-City Name: kirovskiy
-
-City ID: 2757220
-City Name: anna paulowna
-
-City ID: 376332
-City Name: doka
-
-City ID: 905395
-City Name: mufulira
-
-villa vazquez not found
-
-krasnousolskiy not found
-
-City ID: 2142316
-City Name: yeppoon
-
-City ID: 4035249
-City Name: lufilufi
-
-City ID: 2121373
-City Name: seymchan
-
-City ID: 103630
-City Name: najran
-
-City ID: 1259395
-City Name: porbandar
-
-artyk not found
-
-City ID: 165060
-City Name: safita
-
-City ID: 4033077
-City Name: vaitape
-
-City ID: 935616
-City Name: le port
-
-City ID: 576093
-City Name: blagoyevo
-
-City ID: 1277527
-City Name: balotra
-
-City ID: 161616
-City Name: balkanabat
-
-City ID: 2079582
-City Name: alyangula
-
-City ID: 593378
-City Name: varniai
-
-City ID: 3935102
-City Name: mazamari
-
-City ID: 3526756
-City Name: isla mujeres
-
-City ID: 2010971
-City Name: ngemplak
-
-City ID: 5830007
-City Name: lander
-
-City ID: 3447848
-City Name: senges
-
-City ID: 4989133
-City Name: clinton
-
-City ID: 584717
-City Name: xacmaz
-
-City ID: 4156042
-City Name: fort walton beach
-
-City ID: 5942913
-City Name: dryden
-
-tsihombe not found
-
-City ID: 3465373
-City Name: correntina
-
-City ID: 1853371
-City Name: ryotsu
-
-City ID: 2108502
-City Name: honiara
-
-City ID: 3407440
-City Name: apodi
-
-City ID: 3996426
-City Name: matamoros
-
-City ID: 1512101
-City Name: agirish
-
-halalo not found
-
-City ID: 5380437
-City Name: pacific grove
-
-City ID: 1259012
-City Name: raichur
-
-City ID: 5000950
-City Name: marquette
-
-City ID: 3396121
-City Name: luis correia
-
-City ID: 1179450
-City Name: dunyapur
-
-City ID: 5554072
-City Name: juneau
-
-City ID: 2013727
-City Name: vanavara
-
-City ID: 2161608
-City Name: kensington
-
-ruatoria not found
-
-City ID: 3728097
-City Name: les cayes
-
-City ID: 2644210
-City Name: liverpool
-
-City ID: 1786770
-City Name: yibin
-
-City ID: 5915327
-City Name: cap-aux-meules
-
-City ID: 3837213
-City Name: san juan
-
-bolungarvik not found
-
-City ID: 4362001
-City Name: mayo
-
-City ID: 2209055
-City Name: waddan
-
-City ID: 610298
-City Name: beyneu
-
-City ID: 650769
-City Name: kristiinankaupunki
-
-tambul not found
-
-City ID: 535839
-City Name: leshukonskoye
-
-City ID: 1293960
-City Name: taunggyi
+City ID: 3173615
+City Name: melfi
+
+City ID: 3378690
+City Name: fort wellington
 
 City ID: 934322
 City Name: mahebourg
 
-tawnat not found
+City ID: 2171099
+City Name: codrington
 
-City ID: 3904906
-City Name: santa cruz
+barentsburg not found
 
-City ID: 3392095
-City Name: pimenteiras
+City ID: 6153766
+City Name: spirit river
 
-City ID: 3489440
-City Name: morant bay
+City ID: 2188942
+City Name: kawerau
 
-City ID: 2127154
-City Name: aniva
+City ID: 3356832
+City Name: henties bay
 
-City ID: 2270385
-City Name: camacha
+kegayli not found
 
-City ID: 2172880
-City Name: byron bay
+City ID: 933277
+City Name: mosetse
 
-City ID: 2960869
-City Name: youghal
+City ID: 3466165
+City Name: cidreira
 
-Number of cities found: 579
+City ID: 4032243
+City Name: vaini
+
+City ID: 2112444
+City Name: kamaishi
+
+City ID: 153955
+City Name: micheweni
+
+City ID: 4957320
+City Name: bar harbor
+
+City ID: 3386213
+City Name: touros
+
+City ID: 1819729
+City Name: victoria
+
+City ID: 1735106
+City Name: georgetown
+
+City ID: 5848280
+City Name: kapaa
+
+City ID: 1608263
+City Name: nong chik
+
+City ID: 777682
+City Name: skjervoy
+
+City ID: 3874787
+City Name: punta arenas
+
+City ID: 3472638
+City Name: alegrete
+
+City ID: 986717
+City Name: kruisfontein
+
+City ID: 933995
+City Name: souillac
+
+City ID: 3382160
+City Name: cayenne
+
+City ID: 5509851
+City Name: pahrump
+
+City ID: 5563839
+City Name: fortuna
+
+City ID: 2206939
+City Name: bluff
+
+City ID: 1861416
+City Name: ishigaki
+
+City ID: 2093846
+City Name: kiunga
+
+City ID: 5122534
+City Name: jamestown
+
+City ID: 1855540
+City Name: naze
+
+City ID: 2075265
+City Name: busselton
+
+City ID: 2015306
+City Name: tiksi
+
+City ID: 3985710
+City Name: cabo san lucas
+
+City ID: 3353811
+City Name: otjiwarongo
+
+City ID: 158321
+City Name: karema
+
+City ID: 3883457
+City Name: lebu
+
+City ID: 1264976
+City Name: leh
+
+City ID: 927967
+City Name: lilongwe
+
+City ID: 3141548
+City Name: rognan
+
+City ID: 3698359
+City Name: chicama
+
+City ID: 5329649
+City Name: blythe
+
+City ID: 546105
+City Name: nikolskoye
+
+City ID: 2063036
+City Name: port lincoln
+
+City ID: 2122090
+City Name: pevek
+
+City ID: 3466704
+City Name: castro
+
+City ID: 553766
+City Name: kamenka
+
+City ID: 310892
+City Name: kadirli
+
+City ID: 3899695
+City Name: ancud
+
+City ID: 6145890
+City Name: shelburne
+
+City ID: 964420
+City Name: port elizabeth
+
+City ID: 3372707
+City Name: ribeira grande
+
+City ID: 4020109
+City Name: atuona
+
+City ID: 1006984
+City Name: east london
+
+City ID: 6201424
+City Name: mataura
+
+City ID: 2191562
+City Name: dunedin
+
+City ID: 4030556
+City Name: rikitea
+
+City ID: 2094342
+City Name: kavieng
+
+City ID: 2264557
+City Name: ponta do sol
+
+City ID: 2146219
+City Name: hervey bay
+
+City ID: 1688696
+City Name: san policarpo
+
+City ID: 1213855
+City Name: sibolga
+
+City ID: 3471451
+City Name: arraial do cabo
+
+City ID: 3520994
+City Name: puerto escondido
+
+City ID: 2246451
+City Name: saint-louis
+
+City ID: 3374210
+City Name: sao filipe
+
+City ID: 2953391
+City Name: bad neuenahr-ahrweiler
+
+City ID: 2058682
+City Name: wembley
+
+City ID: 2014078
+City Name: urusha
+
+mys shmidta not found
+
+City ID: 2070998
+City Name: geraldton
+
+abiy adi not found
+
+City ID: 3137469
+City Name: sorland
+
+City ID: 1842966
+City Name: kijang
+
+City ID: 5387494
+City Name: ridgecrest
+
+cockburn harbour not found
+
+City ID: 6185377
+City Name: yellowknife
+
+City ID: 4035715
+City Name: avarua
+
+tsihombe not found
+
+karauzyak not found
+
+City ID: 286621
+City Name: salalah
+
+City ID: 2219235
+City Name: awbari
+
+City ID: 3189046
+City Name: tojsici
+
+City ID: 4000490
+City Name: la reforma
+
+City ID: 3838793
+City Name: rio tercero
+
+fatikchhari not found
+
+City ID: 161901
+City Name: kaka
+
+City ID: 1855612
+City Name: nara
+
+City ID: 1015776
+City Name: bredasdorp
+
+City ID: 6096551
+City Name: pangnirtung
+
+City ID: 5924351
+City Name: clyde river
+
+City ID: 6162951
+City Name: terrace bay
+
+illoqqortoormiut not found
+
+gulshat not found
+
+City ID: 4031637
+City Name: lavrentiya
+
+City ID: 3175096
+City Name: lasa
+
+City ID: 6170031
+City Name: tuktoyaktuk
+
+City ID: 2160517
+City Name: launceston
+
+City ID: 2036776
+City Name: huadian
+
+City ID: 5367788
+City Name: lompoc
+
+City ID: 70979
+City Name: sayyan
+
+City ID: 2163355
+City Name: hobart
+
+City ID: 6945992
+City Name: betsiamites
+
+City ID: 2074865
+City Name: carnarvon
+
+azrow not found
+
+City ID: 1178858
+City Name: garhi khairo
+
+attawapiskat not found
+
+City ID: 3133349
+City Name: ulsteinvik
+
+City ID: 6165406
+City Name: thompson
+
+City ID: 3868633
+City Name: vallenar
+
+wulanhaote not found
+
+City ID: 1648186
+City Name: bontang
+
+City ID: 1529484
+City Name: hami
+
+taolanaro not found
+
+City ID: 3421193
+City Name: paamiut
+
+City ID: 5880054
+City Name: barrow
+
+City ID: 697889
+City Name: pavlohrad
+
+City ID: 3418910
+City Name: upernavik
+
+City ID: 780687
+City Name: berlevag
+
+City ID: 1185095
+City Name: teknaf
+
+City ID: 1528998
+City Name: yumen
+
+City ID: 5134295
+City Name: roma
+
+City ID: 64814
+City Name: bandarbeyla
+
+City ID: 1337607
+City Name: kudahuvadhoo
+
+City ID: 2121385
+City Name: severo-kurilsk
+
+City ID: 2020838
+City Name: lensk
+
+City ID: 3372783
+City Name: ponta delgada
+
+City ID: 3437443
+City Name: pozo colorado
+
+City ID: 2120591
+City Name: tilichiki
+
+City ID: 2110227
+City Name: butaritari
+
+City ID: 1789647
+City Name: xichang
+
+City ID: 638936
+City Name: rovaniemi
+
+City ID: 1244926
+City Name: hambantota
+
+City ID: 3471422
+City Name: arroio grande
+
+City ID: 3893726
+City Name: constitucion
+
+City ID: 3932145
+City Name: pisco
+
+City ID: 5970478
+City Name: harbour breton
+
+City ID: 2629833
+City Name: husavik
+
+City ID: 57000
+City Name: hobyo
+
+City ID: 2187826
+City Name: manaia
+
+City ID: 3115824
+City Name: muros
+
+City ID: 6089245
+City Name: norman wells
+
+City ID: 1651810
+City Name: airai
+
+City ID: 1503037
+City Name: kodinsk
+
+City ID: 5546220
+City Name: saint george
+
+City ID: 2028164
+City Name: deputatskiy
+
+City ID: 4513583
+City Name: hamilton
+
+City ID: 2444995
+City Name: filingue
+
+City ID: 1487332
+City Name: verkhnyaya inta
+
+City ID: 2023333
+City Name: kachug
+
+City ID: 935215
+City Name: saint-philippe
+
+City ID: 3389822
+City Name: salinopolis
+
+City ID: 3174050
+City Name: mantua
+
+City ID: 2012956
+City Name: yerbogachen
+
+City ID: 3711009
+City Name: el cope
+
+City ID: 3722579
+City Name: lascahobas
+
+City ID: 1795816
+City Name: shashi
+
+City ID: 4031574
+City Name: provideniya
+
+City ID: 538685
+City Name: kurmanayevka
+
+City ID: 3387204
+City Name: soure
+
+City ID: 4726521
+City Name: san patricio
+
+City ID: 4034551
+City Name: faanui
+
+City ID: 3366880
+City Name: hermanus
+
+City ID: 2013465
+City Name: verkhoyansk
+
+City ID: 1282256
+City Name: hithadhoo
+
+City ID: 2609990
+City Name: vra
+
+City ID: 2112802
+City Name: hasaki
+
+City ID: 4004293
+City Name: ixtapa
+
+City ID: 1714733
+City Name: dingle
+
+City ID: 3579925
+City Name: saint-georges
+
+City ID: 1488903
+City Name: turukhansk
+
+City ID: 4968937
+City Name: kittery
+
+City ID: 1152222
+City Name: mae hong son
+
+City ID: 2142316
+City Name: yeppoon
+
+City ID: 1624725
+City Name: tarakan
+
+City ID: 1629974
+City Name: rantepao
+
+City ID: 542374
+City Name: krasnogorsk
+
+City ID: 2170260
+City Name: corowa
+
+City ID: 1803841
+City Name: lianzhou
+
+City ID: 5882953
+City Name: aklavik
+
+City ID: 4019098
+City Name: ahome
+
+City ID: 1735450
+City Name: lumut
+
+City ID: 370737
+City Name: malakal
+
+City ID: 1223738
+City Name: weligama
+
+City ID: 1486321
+City Name: yar-sale
+
+City ID: 5866063
+City Name: kenai
+
+City ID: 1650600
+City Name: balaipungut
+
+City ID: 1259385
+City Name: port blair
+
+City ID: 3169056
+City Name: romano di lombardia
+
+City ID: 1214026
+City Name: sabang
+
+City ID: 5919850
+City Name: chapais
+
+City ID: 2126199
+City Name: cherskiy
+
+fevralsk not found
+
+City ID: 779622
+City Name: havoysund
+
+City ID: 5554428
+City Name: ketchikan
+
+City ID: 2659977
+City Name: luan
+
+City ID: 1235846
+City Name: matara
+
+crab hill not found
+
+City ID: 1851462
+City Name: sukumo
+
+City ID: 2121909
+City Name: poronaysk
+
+City ID: 1642858
+City Name: jambi
+
+samusu not found
+
+City ID: 1337605
+City Name: mahibadhoo
+
+City ID: 2122262
+City Name: palana
+
+City ID: 1490805
+City Name: strelka
+
+City ID: 2361082
+City Name: dori
+
+City ID: 5855927
+City Name: hilo
+
+City ID: 5282297
+City Name: bethel
+
+City ID: 2180815
+City Name: tuatapere
+
+City ID: 2239862
+City Name: malanje
+
+City ID: 5983720
+City Name: iqaluit
+
+City ID: 1498511
+City Name: mokrousovo
+
+belushya guba not found
+
+City ID: 3445026
+City Name: vila velha
+
+City ID: 778707
+City Name: mehamn
+
+City ID: 3381538
+City Name: grand-santi
+
+City ID: 1152432
+City Name: lang suan
+
+City ID: 5557293
+City Name: sitka
+
+City ID: 110690
+City Name: faya
+
+City ID: 1728675
+City Name: balabac
+
+City ID: 2189343
+City Name: kaeo
+
+hendijan not found
+
+City ID: 362973
+City Name: abnub
+
+City ID: 1259954
+City Name: peddapuram
+
+City ID: 5866583
+City Name: kodiak
+
+City ID: 2160735
+City Name: lakes entrance
+
+City ID: 2017155
+City Name: saskylakh
+
+City ID: 53372
+City Name: odweyne
+
+City ID: 3924948
+City Name: ouro preto do oeste
+
+City ID: 3700393
+City Name: tubuala
+
+City ID: 5859699
+City Name: college
+
+City ID: 2514651
+City Name: los llanos de aridane
+
+grand river south east not found
+
+City ID: 1272634
+City Name: digapahandi
+
+City ID: 1150965
+City Name: ranong
+
+City ID: 5962442
+City Name: goderich
+
+City ID: 2139521
+City Name: noumea
+
+City ID: 2636790
+City Name: stornoway
+
+City ID: 1529195
+City Name: shihezi
+
+City ID: 4946620
+City Name: palmer
+
+City ID: 239899
+City Name: bria
+
+City ID: 913029
+City Name: kapiri mposhi
+
+City ID: 2126785
+City Name: belaya gora
+
+City ID: 556268
+City Name: ostrovnoy
+
+City ID: 1514792
+City Name: gazojak
+
+City ID: 2024626
+City Name: dzhebariki-khaya
+
+City ID: 3870243
+City Name: taltal
+
+City ID: 4960771
+City Name: chesterville
+
+City ID: 3430863
+City Name: mar del plata
+
+dzhusaly not found
+
+City ID: 6071876
+City Name: melfort
+
+City ID: 3374083
+City Name: bathsheba
+
+City ID: 3698304
+City Name: chimbote
+
+City ID: 2194098
+City Name: ahipara
+
+City ID: 6118158
+City Name: red deer
+
+City ID: 1649150
+City Name: bengkulu
+
+City ID: 1809078
+City Name: haikou
+
+City ID: 1507390
+City Name: dikson
+
+City ID: 3839307
+City Name: rawson
+
+City ID: 5188236
+City Name: economy
+
+City ID: 6104745
+City Name: pilot butte
+
+City ID: 4580599
+City Name: greer
+
+City ID: 328716
+City Name: shakiso
+
+City ID: 3082734
+City Name: wabrzezno
+
+City ID: 2460755
+City Name: bafoulabe
+
+City ID: 1185251
+City Name: lalmohan
+
+City ID: 2014743
+City Name: tygda
+
+City ID: 1651103
+City Name: atambua
+
+City ID: 3443061
+City Name: chuy
+
+City ID: 4074736
+City Name: marshall
+
+City ID: 2126123
+City Name: chokurdakh
+
+City ID: 1734879
+City Name: buloh kasap
+
+City ID: 3939761
+City Name: hualmay
+
+City ID: 2276492
+City Name: harper
+
+City ID: 3670218
+City Name: san andres
+
+City ID: 935616
+City Name: le port
+
+City ID: 1218436
+City Name: sayat
+
+City ID: 610298
+City Name: beyneu
+
+City ID: 6149996
+City Name: smithers
+
+City ID: 1337610
+City Name: thinadhoo
+
+City ID: 6355222
+City Name: yulara
+
+City ID: 4164092
+City Name: merritt island
+
+City ID: 216281
+City Name: goma
+
+City ID: 3868626
+City Name: valparaiso
+
+City ID: 3697441
+City Name: el alto
+
+City ID: 1786060
+City Name: yuanping
+
+City ID: 3406961
+City Name: augusto correa
+
+City ID: 2071860
+City Name: esperance
+
+City ID: 478769
+City Name: urdoma
+
+City ID: 3141332
+City Name: roros
+
+City ID: 2122493
+City Name: omsukchan
+
+City ID: 2022572
+City Name: khatanga
+
+City ID: 3013748
+City Name: hauterive
+
+City ID: 5870133
+City Name: nome
+
+City ID: 2636638
+City Name: stromness
+
+City ID: 917688
+City Name: chongwe
+
+City ID: 107304
+City Name: buraydah
+
+City ID: 1167528
+City Name: quetta
+
+City ID: 2079582
+City Name: alyangula
+
+City ID: 2400547
+City Name: gamba
+
+City ID: 3359638
+City Name: walvis bay
+
+City ID: 155056
+City Name: malampaka
+
+City ID: 2077895
+City Name: alice springs
+
+City ID: 3416888
+City Name: grindavik
+
+City ID: 6113406
+City Name: prince rupert
+
+City ID: 2264923
+City Name: peniche
+
+City ID: 4031742
+City Name: egvekinot
+
+City ID: 6167817
+City Name: torbay
+
+City ID: 3198259
+City Name: karlovac
+
+City ID: 3466980
+City Name: caravelas
+
+City ID: 1489554
+City Name: tisul
+
+sumbawa not found
+
+City ID: 2156643
+City Name: mount gambier
+
+City ID: 3347019
+City Name: namibe
+
+paytug not found
+
+City ID: 1527497
+City Name: kyzyl-suu
+
+City ID: 2208248
+City Name: kaitangata
+
+lolua not found
+
+tir pol not found
+
+City ID: 2315026
+City Name: kasongo-lunda
+
+City ID: 1529376
+City Name: korla
+
+City ID: 779330
+City Name: kautokeino
+
+City ID: 293842
+City Name: gat
+
+City ID: 3355672
+City Name: luderitz
+
+City ID: 2173911
+City Name: broken hill
+
+City ID: 1800065
+City Name: nangong
+
+City ID: 2057087
+City Name: kupang
+
+City ID: 2025630
+City Name: chara
+
+City ID: 6111862
+City Name: port hardy
+
+City ID: 1082243
+City Name: ambilobe
+
+City ID: 2027316
+City Name: ayan
+
+City ID: 1252960
+City Name: wani
+
+City ID: 1517637
+City Name: ushtobe
+
+City ID: 2293260
+City Name: agnibilekrou
+
+City ID: 5374376
+City Name: monterey
+
+City ID: 2039557
+City Name: khasan
+
+City ID: 140463
+City Name: birjand
+
+City ID: 127319
+City Name: khorramshahr
+
+City ID: 2455290
+City Name: kidal
+
+City ID: 2939658
+City Name: cuxhaven
+
+City ID: 1271685
+City Name: ganganagar
+
+City ID: 1337617
+City Name: muli
+
+City ID: 551145
+City Name: kem
+
+City ID: 1733023
+City Name: kuala lipis
+
+City ID: 3372472
+City Name: vila franca do campo
+
+City ID: 2214827
+City Name: mizdah
+
+City ID: 2112309
+City Name: katsuura
+
+aflu not found
+
+City ID: 298846
+City Name: tunceli
+
+City ID: 5017822
+City Name: bemidji
+
+City ID: 1106677
+City Name: bambous virieux
+
+City ID: 2155472
+City Name: newcastle
+
+City ID: 2017215
+City Name: sangar
+
+City ID: 3354071
+City Name: oranjemund
+
+City ID: 3493081
+City Name: san juan de la maguana
+
+City ID: 2738381
+City Name: lata
+
+City ID: 552887
+City Name: karagay
+
+City ID: 2108857
+City Name: gizo
+
+City ID: 2387495
+City Name: carnot
+
+City ID: 4576653
+City Name: dillon
+
+City ID: 2744324
+City Name: wisch
+
+City ID: 2065594
+City Name: mount isa
+
+City ID: 2017487
+City Name: raychikhinsk
+
+City ID: 6171633
+City Name: ucluelet
+
+City ID: 3373652
+City Name: oistins
+
+City ID: 2248477
+City Name: mbour
+
+City ID: 3946820
+City Name: barranca
+
+City ID: 2134814
+City Name: sola
+
+City ID: 3393115
+City Name: paracuru
+
+City ID: 5887916
+City Name: athabasca
+
+City ID: 1131162
+City Name: panjab
+
+City ID: 3141667
+City Name: roald
+
+City ID: 2084442
+City Name: vanimo
+
+City ID: 3628473
+City Name: san cristobal
+
+City ID: 2643044
+City Name: margate
+
+City ID: 56399
+City Name: jamame
+
+City ID: 2381972
+City Name: adrar
+
+City ID: 2654970
+City Name: brae
+
+City ID: 3393536
+City Name: olinda
+
+City ID: 3470137
+City Name: belmonte
+
+City ID: 3423146
+City Name: ilulissat
+
+City ID: 2122605
+City Name: okhotsk
+
+City ID: 5850554
+City Name: makakilo city
+
+City ID: 4692856
+City Name: galveston
+
+City ID: 3412093
+City Name: vestmannaeyjar
+
+City ID: 5746545
+City Name: portland
+
+City ID: 3893629
+City Name: coquimbo
+
+nizhneyansk not found
+
+City ID: 6167125
+City Name: tobermory
+
+City ID: 5915327
+City Name: cap-aux-meules
+
+City ID: 1567681
+City Name: son la
+
+chagda not found
+
+City ID: 3446087
+City Name: tres passos
+
+City ID: 1809461
+City Name: guiyang
+
+City ID: 1269810
+City Name: igatpuri
+
+City ID: 2980080
+City Name: saint-francois
+
+City ID: 1806408
+City Name: yangjiang
+
+City ID: 1260206
+City Name: pasighat
+
+City ID: 2449893
+City Name: tessalit
+
+sinjah not found
+
+City ID: 135423
+City Name: shahrud
+
+City ID: 3444105
+City Name: san matias
+
+City ID: 1510377
+City Name: belyy yar
+
+City ID: 5380437
+City Name: pacific grove
+
+City ID: 2327879
+City Name: offa
+
+City ID: 2396853
+City Name: omboue
+
+City ID: 1491230
+City Name: sovetskiy
+
+City ID: 2234794
+City Name: banyo
+
+City ID: 2450173
+City Name: taoudenni
+
+halalo not found
+
+City ID: 3421765
+City Name: nanortalik
+
+City ID: 527191
+City Name: michurinsk
+
+City ID: 3877949
+City Name: osorno
+
+City ID: 1525121
+City Name: borovskoy
+
+City ID: 2109701
+City Name: auki
+
+City ID: 609924
+City Name: emba
+
+City ID: 2788211
+City Name: remicourt
+
+City ID: 777019
+City Name: vardo
+
+City ID: 3665992
+City Name: villagarzon
+
+City ID: 2016733
+City Name: shestakovo
+
+City ID: 5972291
+City Name: havre-saint-pierre
+
+City ID: 1178338
+City Name: gilgit
+
+City ID: 2132606
+City Name: samarai
+
+City ID: 191038
+City Name: kitui
+
+City ID: 2170577
+City Name: cooma
+
+City ID: 1498283
+City Name: mugur-aksy
+
+City ID: 2187175
+City Name: matata
+
+City ID: 5563397
+City Name: eureka
+
+City ID: 1529660
+City Name: aksu
+
+City ID: 3407407
+City Name: aquiraz
+
+galiwinku not found
+
+City ID: 2610343
+City Name: vestmanna
+
+City ID: 161943
+City Name: gumdag
+
+City ID: 5983626
+City Name: invermere
+
+City ID: 1650232
+City Name: banjar
+
+City ID: 1488931
+City Name: turinskaya sloboda
+
+City ID: 2136825
+City Name: isangel
+
+City ID: 757033
+City Name: tarnobrzeg
+
+City ID: 486186
+City Name: suoyarvi
+
+City ID: 470905
+City Name: vuktyl
+
+City ID: 3372964
+City Name: lagoa
+
+City ID: 1214488
+City Name: meulaboh
+
+City ID: 5896969
+City Name: beaverlodge
+
+City ID: 3391889
+City Name: pitimbu
+
+City ID: 4588165
+City Name: mount pleasant
+
+City ID: 2214432
+City Name: nalut
+
+City ID: 1650434
+City Name: bambanglipuro
+
+ngukurr not found
+
+City ID: 1862555
+City Name: hirado
+
+City ID: 2460954
+City Name: araouane
+
+meyungs not found
+
+City ID: 1272140
+City Name: dwarka
+
+City ID: 1626099
+City Name: sumenep
+
+City ID: 2129395
+City Name: kuroishi
+
+City ID: 1804645
+City Name: kunyang
+
+City ID: 6050066
+City Name: la ronge
+
+City ID: 6137462
+City Name: saint-augustin
+
+City ID: 1524325
+City Name: ekibastuz
+
+City ID: 3361934
+City Name: saldanha
+
+City ID: 2630299
+City Name: hofn
+
+City ID: 1633034
+City Name: liku
+
+City ID: 3440777
+City Name: rocha
+
+City ID: 3996322
+City Name: mazatlan
+
+City ID: 2160053
+City Name: lithgow
+
+City ID: 3453315
+City Name: pocone
+
+City ID: 3176923
+City Name: fiumicino
+
+City ID: 2537881
+City Name: asfi
+
+City ID: 2013279
+City Name: vostok
+
+City ID: 3156980
+City Name: floro
+
+City ID: 1214191
+City Name: perbaungan
+
+City ID: 4021858
+City Name: guerrero negro
+
+City ID: 367544
+City Name: sawakin
+
+City ID: 2119283
+City Name: zyryanka
+
+mocambique not found
+
+City ID: 3448903
+City Name: sao joao da barra
+
+City ID: 2126710
+City Name: beringovskiy
+
+City ID: 2128147
+City Name: furano
+
+City ID: 365742
+City Name: torit
+
+City ID: 2021041
+City Name: kyra
+
+City ID: 1513990
+City Name: gazli
+
+City ID: 472757
+City Name: rybachiy
+
+City ID: 2021017
+City Name: kysyl-syr
+
+City ID: 2470483
+City Name: harqalah
+
+City ID: 3445764
+City Name: unai
+
+City ID: 2392087
+City Name: porto novo
+
+City ID: 1490256
+City Name: talnakh
+
+City ID: 6457397
+City Name: bose
+
+City ID: 1715015
+City Name: dicabisagan
+
+City ID: 152663
+City Name: mugumu
+
+City ID: 5919815
+City Name: channel-port aux basques
+
+City ID: 1698289
+City Name: pundaguitan
+
+City ID: 5993072
+City Name: kitimat
+
+City ID: 923058
+City Name: kambove
+
+City ID: 1299237
+City Name: pyapon
+
+City ID: 653272
+City Name: kemijarvi
+
+warqla not found
+
+City ID: 2138555
+City Name: poum
+
+City ID: 3381428
+City Name: iracoubo
+
+City ID: 1701054
+City Name: marawi
+
+City ID: 2965402
+City Name: clonakilty
+
+City ID: 1847947
+City Name: shingu
+
+City ID: 4176380
+City Name: venice
+
+City ID: 1684803
+City Name: tabuk
+
+City ID: 1268814
+City Name: joshimath
+
+City ID: 3665380
+City Name: alvaraes
+
+City ID: 921906
+City Name: domoni
+
+City ID: 1260734
+City Name: palera
+
+City ID: 2427336
+City Name: moussoro
+
+City ID: 1651531
+City Name: ambon
+
+ayer itam not found
+
+City ID: 515246
+City Name: onega
+
+City ID: 218680
+City Name: boende
+
+City ID: 1275655
+City Name: bikramganj
+
+City ID: 3461941
+City Name: guapore
+
+City ID: 2028078
+City Name: aginskoye
+
+City ID: 2109528
+City Name: buala
+
+bolungarvik not found
+
+City ID: 3428068
+City Name: san vicente
+
+City ID: 988290
+City Name: komatipoort
+
+City ID: 1337619
+City Name: ugoofaaru
+
+City ID: 5969025
+City Name: haines junction
+
+City ID: 2381334
+City Name: atar
+
+City ID: 154002
+City Name: mhango
+
+City ID: 4683462
+City Name: corsicana
+
+City ID: 4400183
+City Name: neosho
+
+City ID: 1052373
+City Name: beira
+
+City ID: 1817240
+City Name: baiyin
+
+City ID: 3402648
+City Name: carutapera
+
+City ID: 2446796
+City Name: bilma
+
+City ID: 4033557
+City Name: tautira
+
+City ID: 5970873
+City Name: hare bay
+
+City ID: 7647007
+City Name: san carlos de bariloche
+
+City ID: 5905393
+City Name: bonavista
+
+burica not found
+
+City ID: 3464460
+City Name: itapora
+
+City ID: 5847411
+City Name: kahului
+
+City ID: 3870282
+City Name: talcahuano
+
+chugunash not found
+
+City ID: 3533462
+City Name: acapulco
+
+City ID: 5892532
+City Name: banff
+
+City ID: 2732340
+City Name: mata
+
+City ID: 546060
+City Name: koltubanovskiy
+
+City ID: 3104324
+City Name: zaragoza
+
+City ID: 1024696
+City Name: dondo
+
+City ID: 2232283
+City Name: ebolowa
+
+City ID: 1863997
+City Name: fukue
+
+City ID: 2122574
+City Name: ola
+
+City ID: 3894426
+City Name: coihaique
+
+City ID: 1106643
+City Name: quatre cocos
+
+City ID: 301975
+City Name: samandag
+
+City ID: 3421719
+City Name: narsaq
+
+City ID: 1786657
+City Name: yinchuan
+
+City ID: 962367
+City Name: richards bay
+
+City ID: 2178753
+City Name: kirakira
+
+City ID: 2417795
+City Name: mandiana
+
+City ID: 2012530
+City Name: zhigansk
+
+City ID: 2016307
+City Name: solnechnyy
+
+City ID: 2123814
+City Name: leningradskiy
+
+City ID: 2252606
+City Name: bakel
+
+City ID: 1501377
+City Name: kungurtug
+
+City ID: 1502073
+City Name: krasnoselkup
+
+City ID: 1255816
+City Name: sompeta
+
+City ID: 5992154
+City Name: kindersley
+
+City ID: 2290836
+City Name: boundiali
+
+City ID: 1636806
+City Name: majene
+
+City ID: 5855051
+City Name: ewa beach
+
+mentok not found
+
+City ID: 1785036
+City Name: zhangye
+
+City ID: 525426
+City Name: sobolevo
+
+City ID: 3464728
+City Name: diamantina
+
+City ID: 4535389
+City Name: duncan
+
+City ID: 1005768
+City Name: ellisras
+
+City ID: 1607758
+City Name: phayao
+
+milingimbi not found
+
+City ID: 88834
+City Name: tukrah
+
+City ID: 1634614
+City Name: nabire
+
+City ID: 1486261
+City Name: yaya
+
+City ID: 496285
+City Name: severodvinsk
+
+City ID: 2013727
+City Name: vanavara
+
+City ID: 2092164
+City Name: lorengau
+
+City ID: 1168700
+City Name: ormara
+
+City ID: 2445488
+City Name: dosso
+
+tepexi not found
+
+City ID: 95788
+City Name: hit
+
+City ID: 3413604
+City Name: eyrarbakki
+
+City ID: 1513087
+City Name: nurota
+
+City ID: 540776
+City Name: kromy
+
+City ID: 1708743
+City Name: kinablangan
+
+Number of cities found: 567
